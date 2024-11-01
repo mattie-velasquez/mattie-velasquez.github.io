@@ -1,4 +1,11 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  output: "export",
+  images: {
+    unoptimized: true,
+  },
+  // This helps with client-side routing
+  trailingSlash: true,
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
