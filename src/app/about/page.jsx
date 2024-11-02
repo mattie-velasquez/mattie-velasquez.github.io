@@ -12,21 +12,15 @@ export default function About() {
     <div className="flex flex-col px-4 lg:px-36 py-16 gap-6">
       <div className="flex flex-col-reverse lg:flex-row justify-between gap-8">
         {/* Left Section - Text */}
-        <div className="w- full max-w-[464px] lg:">
+        <div className="w- full max-w-[464px] lg:flex">
           <h1 className=" text-zinc-800  dark:text-zinc-100 text-5xl leading-[56px] font-bold mb-4">
             I'm Mattie, a software developer, graphic designer, student, and wife
           </h1>
           <p className="text-zinc-800  dark:text-zinc-100 mb-4">
-            I have many hobbies and interests, including graphic design, software development, and learning new things.
-            I am an artist, crafter, musician, and writer. I am a member of the Church of Jesus Christ of Latter-day
-            Saints, and I am married to my best friend, who is taking classes online for his educational goals. We love
-            going on walks, playing games, making each other laugh, and just spending time together.
+            I have many hobbies and interests, including graphic design, software development, and learning new things. I am an artist, crafter, musician, and writer. I am a member of the Church of Jesus Christ of Latter-day Saints, and I am married to my best friend, who is taking classes online for his educational goals. We love going on walks, playing games, making each other laugh, and just spending time together.
           </p>
           <p className="text-zinc-800  dark:text-zinc-100 mb-4">
-            I have been attending Ensign College for the last year and a half, studying software development and graphic
-            design. I have really been enjoying my time here, learning about and studying graphic design and software
-            development. I have been learning so much about coding and softwware development, and I am looking forward
-            to being able to utilize the skills I have learned in future projects and job opportunities.
+            I have been attending Ensign College for the last year and a half, studying software development and graphic design. I have really been enjoying my time here, learning about and studying graphic design and software development. I have been learning so much about coding and softwware development, and I am looking forward to being able to utilize the skills I have learned in future projects and job opportunities.
           </p>
           {/* <p className="text-zinc-800  dark:text-zinc-100 mb-4"></p>
           <p className="text-zinc-800  dark:text-zinc-100 mb-4"></p> */}
@@ -139,7 +133,7 @@ export default function About() {
             alt="Email"
             className="w-6 h-6 mr-2 text-zinc-800  dark:text-zinc-100"
           />
-          <span>jane@email.com</span>
+          <span>mrradke97@gmail.com</span>
         </div>
       </div>
     </div>
