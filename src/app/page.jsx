@@ -15,9 +15,9 @@ export default function Home() {
     <div className="flex flex-col px-4 pt-6 pb-16 lg:px-36 gap-6">
       <Introduction
         className="introduction"
-        title={"Software engineer, father, and believer"}
+        title={"Software developer, graphic designer, and student."}
         content={
-          "Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi.."
+          "I'm a student of software development and graphic design at Ensign College and I am passionate about helping to create a safer world through technology and design."
         }
         socialLinks={socialLinks}
       />
@@ -31,13 +31,17 @@ export default function Home() {
           <WorkWidget
             className="widget"
             title={"Work"}
-            content={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi."}
+            content={
+              "My work experience includes community work, personal growth and design, as well as professionl work experiences."
+            }
             experiences={work}
           />
           <SkillsWidget
             className="widget"
             title={"Skills"}
-            content={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi."}
+            content={
+              "I have experience with a variety of tools and technologies, including design software, programming languages, and more."
+            }
             skills={skills}
           />
         </section>
