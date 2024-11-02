@@ -43,7 +43,7 @@ export default function About() {
           {/*big image*/}
           <div className="lg:flex">
             <Image
-              src="/about/aboutImage.jpeg"
+              src="/about/aboutImage.jpg"
               alt="Profile picture"
               className="w-full h-full object-cover"
               width={464}
