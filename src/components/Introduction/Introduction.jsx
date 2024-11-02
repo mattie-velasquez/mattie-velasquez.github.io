@@ -4,7 +4,7 @@ const Introduction = ({ title, content, socialLinks = [] }) => {
   return (
     <div className="flex flex-col gap-6 w-full lg:w-[672px] lg:h-96">
       <Image
-        src="/Introduction/profile.jpg"
+        src="/Introduction/introductionProfile.jpg"
         width={64}
         height={64}
         className="rounded-full border-2 border-inherit shadow-lg"

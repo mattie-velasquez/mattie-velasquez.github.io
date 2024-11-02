@@ -10,7 +10,6 @@ export const metadata = {
 export default function About() {
   return (
     <div className="flex flex-col px-4 lg:px-36 py-16 gap-6">
-
       <div className="flex flex-col-reverse lg:flex-row justify-between gap-8">
         {/* Left Section - Text */}
         <div className="w- full max-w-[464px] lg:">
@@ -44,7 +43,7 @@ export default function About() {
           {/*big image*/}
           <div className="lg:flex">
             <Image
-              src="/about/aboutimage.jpeg"
+              src="/about/aboutImage.jpeg"
               alt="Profile picture"
               className="w-full h-full object-cover"
               width={464}
@@ -77,54 +76,77 @@ export default function About() {
               href="https://linkedin.com"
               className="flex items-center justify-start mb-4 text-zinc-800  dark:text-zinc-100 hover:text-black"
             >
-              <Image width={24} height={24} src="/SocialLinks/linkedin.svg" alt="LinkedIn" className="w-6 h-6 mr-2 text-zinc-800  dark:text-zinc-100"/>
+              <Image
+                width={24}
+                height={24}
+                src="/SocialLinks/linkedin.svg"
+                alt="LinkedIn"
+                className="w-6 h-6 mr-2 text-zinc-800  dark:text-zinc-100"
+              />
               <span>Follow me on LinkedIn</span>
             </a>
 
             {/*mail*/}
             <div className="flex  items-center justify-start text-zinc-800  dark:text-zinc-100">
-              <Image width={24} height={24} src="/SocialLinks/mail.svg" alt="Email" className="w-6 h-6 mr-2 text-zinc-800  dark:text-zinc-100" />
+              <Image
+                width={24}
+                height={24}
+                src="/SocialLinks/mail.svg"
+                alt="Email"
+                className="w-6 h-6 mr-2 text-zinc-800  dark:text-zinc-100"
+              />
               <span>jane@email.com</span>
             </div>
           </div>
         </div>
       </div>
 
-
       {/*links mobile*/}
       <div className="lg:hidden p-6 text-center">
-            {/*twitter*/}
-            <a
-              href="https://twitter.com"
-              className="flex items-center justify-start mb-4 text-zinc-800 dark:text-zinc-100 hover:text-black"
-            >
-              <Image width={24} height={24} src="/SocialLinks/twitter.svg" alt="Twitter" className="w-6 h-6 mr-2" />
-              <span>Follow me on X</span>
-            </a>
+        {/*twitter*/}
+        <a
+          href="https://twitter.com"
+          className="flex items-center justify-start mb-4 text-zinc-800 dark:text-zinc-100 hover:text-black"
+        >
+          <Image width={24} height={24} src="/SocialLinks/twitter.svg" alt="Twitter" className="w-6 h-6 mr-2" />
+          <span>Follow me on X</span>
+        </a>
 
-            {/*git*/}
-            <a
-              href="https://github.com"
-              className="flex items-center justify-start mb-4 text-zinc-800  dark:text-zinc-100 hover:text-black"
-            >
-              <Image width={24} height={24} src="/SocialLinks/github.svg" alt="Github" className="w-6 h-6 mr-2" />
-              <span>Follow me on Github</span>
-            </a>
+        {/*git*/}
+        <a
+          href="https://github.com"
+          className="flex items-center justify-start mb-4 text-zinc-800  dark:text-zinc-100 hover:text-black"
+        >
+          <Image width={24} height={24} src="/SocialLinks/github.svg" alt="Github" className="w-6 h-6 mr-2" />
+          <span>Follow me on Github</span>
+        </a>
 
-            {/* Lknd*/}
-            <a
-              href="https://linkedin.com"
-              className="flex items-center justify-start mb-4 text-zinc-800  dark:text-zinc-100 hover:text-black"
-            >
-              <Image width={24} height={24} src="/SocialLinks/linkedin.svg" alt="LinkedIn" className="w-6 h-6 mr-2 text-zinc-800  dark:text-zinc-100"/>
-              <span>Follow me on LinkedIn</span>
-            </a>
+        {/* Lknd*/}
+        <a
+          href="https://linkedin.com"
+          className="flex items-center justify-start mb-4 text-zinc-800  dark:text-zinc-100 hover:text-black"
+        >
+          <Image
+            width={24}
+            height={24}
+            src="/SocialLinks/linkedin.svg"
+            alt="LinkedIn"
+            className="w-6 h-6 mr-2 text-zinc-800  dark:text-zinc-100"
+          />
+          <span>Follow me on LinkedIn</span>
+        </a>
 
-            {/*mail*/}
-            <div className="flex  items-center justify-start text-zinc-800  dark:text-zinc-100">
-              <Image width={24} height={24} src="/SocialLinks/mail.svg" alt="Email" className="w-6 h-6 mr-2 text-zinc-800  dark:text-zinc-100" />
-              <span>jane@email.com</span>
-            </div>
+        {/*mail*/}
+        <div className="flex  items-center justify-start text-zinc-800  dark:text-zinc-100">
+          <Image
+            width={24}
+            height={24}
+            src="/SocialLinks/mail.svg"
+            alt="Email"
+            className="w-6 h-6 mr-2 text-zinc-800  dark:text-zinc-100"
+          />
+          <span>jane@email.com</span>
+        </div>
       </div>
     </div>
   );
