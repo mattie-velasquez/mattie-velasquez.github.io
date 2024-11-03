@@ -1,4 +1,3 @@
-
 const blogspotURL = "https://havingachristlikeheart.blogspot.com";
 const eaglemountainsymphonyURL = "https://eaglemountainsymphony.org/concerts/";
 const concert2022October = `${eaglemountainsymphonyURL}2022October/program.pdf`;
