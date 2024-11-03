@@ -137,24 +137,24 @@ export const projectList = [
     logo: "/ProjectCard/emso.png",
     name: "A Night at the Symphony",
     content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
-    link: october2022,
+    link: concert2022October,
   },
   {
     logo: "/ProjectCard/emso.png",
     name: "A Night at the Ballet",
     content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
-    link: december2022,
+    link: concert2022December,
   },
   {
     logo: "/ProjectCard/emso.png",
     name: "A Night at the Opera",
     content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
-    link: march2023,
+    link: concert2023March,
   },
   {
     logo: "/ProjectCard/emso.png",
     name: "A Night at the Movies",
     content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
-    link: june2023,
+    link: concert2023June,
   },
 ];
