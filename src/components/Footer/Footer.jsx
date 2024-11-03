@@ -10,7 +10,7 @@ const Footer = ({ links = [] }) => {
           </li>
         ))}
       </ul>
-      <p className="text-zinc-400 text-sm">© {year} John Doe. All rights reserved.</p>
+      <p className="text-zinc-400 text-sm">© {year} Mattie Velasquez. All rights reserved.</p>
     </footer>
   );
 };
