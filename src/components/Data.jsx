@@ -1,4 +1,5 @@
 import next from "next";
+import { blogspotURL, concert2022October, concert2022December, concert2023March, concert2023June, article2URL } from "./DataLinks";
 
 export const skills = [
     { name: 'HTML', proficiency: 60, icon: '/SkillsWidget/html5.svg' },
@@ -75,7 +76,7 @@ export const articleList = [
       date: 'August 4, 2024',
       title: 'Lord, do you remember me?',
       content: 'I love going to the temple. I love the peace that I feel in the temple, and I love being able to sit in reverence.',
-      link: "https://havingachristlikeheart.blogspot.com/2024/08/lord-do-you-remember-me.html",
+      link: article1URL,
     },
     {
       date: 'March 30, 2024',
