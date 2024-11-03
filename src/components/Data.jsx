@@ -75,7 +75,7 @@ export const articleList = [
       date: 'August 4, 2024',
       title: 'Lord, do you remember me?',
       content: 'I love going to the temple. I love the peace that I feel in the temple, and I love being able to sit in reverence.',
-      link: article1URL,
+      link: "https://havingachristlikeheart.blogspot.com/2024/08/lord-do-you-remember-me.html",
     },
     {
       date: 'March 30, 2024',
