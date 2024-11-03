@@ -1,5 +1,5 @@
 import next from "next";
-import { blogspotURL, concert2022October, concert2022December, concert2023March, concert2023June, article2URL } from "../../public/DataLinks";
+// import { blogspotURL, concert2022October, concert2022December, concert2023March, concert2023June, article2URL } from "../../public/DataLinks";
 
 export const skills = [
     { name: 'HTML', proficiency: 60, icon: '/SkillsWidget/html5.svg' },
@@ -76,13 +76,13 @@ export const articleList = [
       date: 'August 4, 2024',
       title: 'Lord, do you remember me?',
       content: 'I love going to the temple. I love the peace that I feel in the temple, and I love being able to sit in reverence.',
-      link: article1URL,
+      link: "https://havingachristlikeheart.blogspot.com/2024/08/lord-do-you-remember-me.html",
     },
     {
       date: 'March 30, 2024',
       title: 'He is already here.',
       content: 'I had this beautiful idea in my head Friday night after my orchestra concert of a meaningful image of the sacrifice and love of our Savior. I spent many hours working on it, wanting to get it right because this idea was too precious not to share.',
-      link: article2URL,
+      link: "https://havingachristlikeheart.blogspot.com/2024/03/he-is-already-here.html",
     },
   ];
 
@@ -132,30 +132,30 @@ export const projectList = [
     logo: "/ProjectCard/blog.png",
     name: "Keeping Christ in Your Heart",
     content: "Uplifting posts from a member of the Church of Jesus Christ of Latter-day Saints.",
-    link: blogspotURL,
+    link: "https://havingachristlikeheart.blogspot.com",
   },
   {
     logo: "/ProjectCard/emso.png",
     name: "A Night at the Symphony",
     content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
-    link: concert2022October,
+    link: "https://eaglemountainsymphony.org/concerts/2022October/program.pdf",
   },
   {
     logo: "/ProjectCard/emso.png",
     name: "A Night at the Ballet",
     content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
-    link: concert2022December,
+    link: "https://eaglemountainsymphony.org/concerts/2022December/program.pdf",
   },
   {
     logo: "/ProjectCard/emso.png",
     name: "A Night at the Opera",
     content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
-    link: concert2023March,
+    link: "https://eaglemountainsymphony.org/concerts/2023March/program.pdf",
   },
   {
     logo: "/ProjectCard/emso.png",
     name: "A Night at the Movies",
     content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
-    link: concert2023June,
+    link: "https://eaglemountainsymphony.org/concerts/2023June/program.pdf",
   },
 ];
