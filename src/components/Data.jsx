@@ -75,13 +75,13 @@ export const articleList = [
       date: 'August 4, 2024',
       title: 'Lord, do you remember me?',
       content: 'I love going to the temple. I love the peace that I feel in the temple, and I love being able to sit in reverence.',
-      link: 'article1URL',
+      link: article1URL,
     },
     {
       date: 'March 30, 2024',
       title: 'He is already here.',
       content: 'I had this beautiful idea in my head Friday night after my orchestra concert of a meaningful image of the sacrifice and love of our Savior. I spent many hours working on it, wanting to get it right because this idea was too precious not to share.',
-      link: 'article2URL',
+      link: article2URL,
     },
   ];
 
@@ -131,30 +131,30 @@ export const projectList = [
     logo: "/ProjectCard/blog.png",
     name: "Keeping Christ in Your Heart",
     content: "Uplifting posts from a member of the Church of Jesus Christ of Latter-day Saints.",
-    link: "blogspotURL",
+    link: blogspotURL,
   },
   {
     logo: "/ProjectCard/emso.png",
     name: "A Night at the Symphony",
     content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
-    link: "october2022",
+    link: october2022,
   },
   {
     logo: "/ProjectCard/emso.png",
     name: "A Night at the Ballet",
     content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
-    link: "december2022",
+    link: december2022,
   },
   {
     logo: "/ProjectCard/emso.png",
     name: "A Night at the Opera",
     content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
-    link: "march2023",
+    link: march2023,
   },
   {
     logo: "/ProjectCard/emso.png",
     name: "A Night at the Movies",
     content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
-    link: "june2023",
+    link: june2023,
   },
 ];
