@@ -75,13 +75,13 @@ export const articleList = [
       date: 'August 4, 2024',
       title: 'Lord, do you remember me?',
       content: 'I love going to the temple. I love the peace that I feel in the temple, and I love being able to sit in reverence.',
-      link: '/articles/my-first-article',
+      link: 'article1URL',
     },
     {
       date: 'March 30, 2024',
       title: 'He is already here.',
       content: 'I had this beautiful idea in my head Friday night after my orchestra concert of a meaningful image of the sacrifice and love of our Savior. I spent many hours working on it, wanting to get it right because this idea was too precious not to share.',
-      link: '/articles/my-second-article',
+      link: 'article2URL',
     },
   ];
 
@@ -131,7 +131,7 @@ export const projectList = [
     logo: "/ProjectCard/blog.png",
     name: "Keeping Christ in Your Heart",
     content: "Uplifting posts from a member of the Church of Jesus Christ of Latter-day Saints.",
-    link: "blogspot",
+    link: "blogspotURL",
   },
   {
     logo: "/ProjectCard/emso.png",

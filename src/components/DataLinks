@@ -1,8 +1,9 @@
 
-const blogspot = "havingachristlikeheart.blogspot.com";
-const october2022 = "https://eaglemountainsymphony.org/concerts/2022October/program.pdf";
-const december2022 = "https://eaglemountainsymphony.org/concerts/2022December/program.pdf"
-const march2023 = "https://eaglemountainsymphony.org/concerts/2023March/program.pdf"
-const june2023 = "https://eaglemountainsymphony.org/concerts/2023June/program.pdf"
-const /articles/my-first-article = "https://havingachristlikeheart.blogspot.com/2024/08/lord-do-you-remember-me.html";
-const /articles/my-second-article = "https://havingachristlikeheart.blogspot.com/2024/03/he-is-already-here.html";
+const blogspotURL = "https://havingachristlikeheart.blogspot.com";
+const eaglemountainsymphonyURL = "https://eaglemountainsymphony.org/concerts/";
+const october2022 = `${eaglemountainsymphonyURL}2022October/program.pdf`;
+const december2022 = `${eaglemountainsymphonyURL}2022December/program.pdf`;
+const march2023 = `${eaglemountainsymphonyURL}2023March/program.pdf`;
+const june2023 = `${eaglemountainsymphonyURL}2023June/program.pdf`;
+const article1URL = `${blogspotURL}/2024/08/lord-do-you-remember-me.html`;
+const article2URL = `${blogspotURL}/2024/03/he-is-already-here.html`;
