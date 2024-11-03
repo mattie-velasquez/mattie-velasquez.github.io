@@ -10,9 +10,9 @@ const SkillsWidget = ({ title, content, skills = [] }) => {
         {title}
         </h2>
       <p className=" text-sm text-zinc-600 dark:text-zinc-400">{content}</p>
-      <ul className="flex flex-col pt-6 gap-y-4">
+      <ul className="flex flex-col gap-y-4">
         {skills.map((skill, index) => (
-          <li key={index} className="w-[350px] h-12 gap-4">
+          <li key={index} className="w-[350px] h-12 flex flex-row gap-4">
             <div className="flex flex-row gap-2 items-center">
               <div className="w-[50px] h-[50px] ring-1 ring-zinc-900/5 rounded-full">
                 <Image className="m-auto py-3" width={28} height={28} src={skill.icon} alt={`Item ${index} Name Icon`} />

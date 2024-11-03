@@ -8,32 +8,32 @@ export const skills = [
 
 export const work = [
     {
-      logo: '/WorkWidget/slack.png',
-      organization: 'Slack',
-      jobTitle: 'Software Engineer',
-      startYear: 2016,
-      endYear: null,
+      logo: '/WorkWidget/ess.png',
+      organization: 'ESS',
+      jobTitle: 'Substitute Teacher',
+      startYear: 2023,
+      endYear: 2024,
     },
     {
-      logo: '/WorkWidget/spotify.png',
-      organization: 'Spotify',
-      jobTitle: 'Software Engineer',
-      startYear: 2014,
-      endYear: 2015,
+      logo: '/WorkWidget/upkid.png',
+      organization: 'UpKid',
+      jobTitle: 'Substitute Teacher',
+      startYear: 2022,
+      endYear: 2023,
     },
     {
-      logo: '/WorkWidget/audible.png',
-      organization: 'Audible',
-      jobTitle: 'Software Engineer',
-      startYear: 2012,
-      endYear: 2013,
+      logo: '/WorkWidget/kotm.png',
+      organization: 'Kids on the Move',
+      jobTitle: 'Assistant Teacher',
+      startYear: 2020,
+      endYear: 2022,
     },
     {
-      logo: '/WorkWidget/microsoft.png',
-      organization: 'Microsoft',
-      jobTitle: 'Software Engineer',
-      startYear: 2010,
-      endYear: 2011,
+      logo: '/WorkWidget/roi solutions.png',
+      organization: 'ROI Solutions',
+      jobTitle: 'Customer Service Representative',
+      startYear: 2020,
+      endYear: 2020,
     }
   ];
 
@@ -64,29 +64,24 @@ export const navOptions = [
   ];
 
 export const socialLinks = [
-    { icon: '/SocialLinks/github.svg', link: 'https://github.com' },
-    { icon: '/SocialLinks/linkedin.svg', link: 'https://linkedin.com' },
-    { icon: '/SocialLinks/twitter.svg', link: 'https://twitter.com' },
-  ];
+    { icon: '/SocialLinks/github.svg', link: 'https://github.com/tethergirl30' },
+    { icon: '/SocialLinks/linkedin.svg', link: 'https://linkedin.com/mattievelasquez' },
+ ];
+    {/* icon: '/SocialLinks/twitter.svg', link: 'https://twitter.com' */}
+
 
 export const articleList = [
     {
-      date: 'December 25, 2023',
-      title: 'Lorem ipsum dolor sit amet',
-      content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue...',
+      date: 'August 4, 2024',
+      title: 'Lord, do you remember me?',
+      content: 'I love going to the temple. I love the peace that I feel in the temple, and I love being able to sit in reverence.',
       link: '/articles/my-first-article',
     },
     {
-      date: 'December 25, 2023',
-      title: 'Lorem ipsum dolor sit amet',
-      content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue...',
+      date: 'March 30, 2024',
+      title: 'He is already here.',
+      content: 'I had this beautiful idea in my head Friday night after my orchestra concert of a meaningful image of the sacrifice and love of our Savior. I spent many hours working on it, wanting to get it right because this idea was too precious not to share.',
       link: '/articles/my-second-article',
-    },
-    {
-      date: 'December 25, 2023',
-      title: 'Lorem ipsum dolor sit amet',
-      content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue...',
-      link: '/articles/my-third-article',
     },
   ];
 
@@ -157,39 +152,33 @@ export const productivityList =[
 
 export const projectList = [
   {
-    logo: '/ProjectCard/company.svg',
-    name: 'Company',
-    content: 'Creating technology to empower civilians to explore space on their own terms.',
-    link: 'https://company.com',
+    logo: "/ProjectCard/blog.png",
+    name: "Keeping Christ in Your Heart",
+    content: "Uplifting posts from a member of the Church of Jesus Christ of Latter-day Saints.",
+    link: "blogspot.com",
   },
   {
-    logo: '/ProjectCard/company.svg',
-    name: 'Company',
-    content: 'Creating technology to empower civilians to explore space on their own terms.',
-    link: 'https://company.com',
+    logo: "/ProjectCard/emso.png",
+    name: "A Night at the Symphony",
+    content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
+    link: "eaglemountainsymphony.org/1",
   },
   {
-    logo: '/ProjectCard/company.svg',
-    name: 'Company',
-    content: 'Creating technology to empower civilians to explore space on their own terms.',
-    link: 'https://company.com',
+    logo: "/ProjectCard/emso.png",
+    name: "A Night at the Ballet",
+    content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
+    link: "eaglemountainsymphony.org/2",
   },
-    {
-      logo: '/ProjectCard/company.svg',
-      name: 'Company',
-      content: 'Creating technology to empower civilians to explore space on their own terms.',
-      link: 'https://company.com',
-    },
-    {
-      logo: '/ProjectCard/company.svg',
-      name: 'Company',
-      content: 'Creating technology to empower civilians to explore space on their own terms.',
-      link: 'https://company.com',
-    },
-    {
-      logo: '/ProjectCard/company.svg',
-      name: 'Company',
-      content: 'Creating technology to empower civilians to explore space on their own terms.',
-      link: 'https://company.com',
-    },
-  ];
+  {
+    logo: "/ProjectCard/emso.png",
+    name: "A Night at the Opera",
+    content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
+    link: "eaglemountainsymphony.org/3",
+  },
+  {
+    logo: "/ProjectCard/emso.png",
+    name: "A Night at the Movies",
+    content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
+    link: "eaglemountainsymphony.org/4",
+  },
+];
