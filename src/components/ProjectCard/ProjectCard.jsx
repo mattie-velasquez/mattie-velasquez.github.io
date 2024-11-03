@@ -22,11 +22,10 @@ const ProjectCard = ({ projects = [] }) => {
               {project.content}
             </p>
             <a
-              className="mt-2 flex items-center justify-center px-4 py-2 hover:underline text-zinc-800 dark:text-zinc-300"
+              className="flex flex-row items-center leading-7 hover:underline text-zinc-800 dark:text-zinc-300"
               href={project.link}
               target="_blank"
               rel="noreferrer"
-              style={{ wordkBreak: "break-all" }}
             >
               {project.link}
             </a>
