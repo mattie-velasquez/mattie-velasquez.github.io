@@ -16,7 +16,7 @@ const ProjectCard = ({ projects = [] }) => {
             src={project.logo}
             alt={`${project.name} logo`}
           />
-          <div className="flex flex-col gap-4">
+          <div className="flex flex-col gap-4 w-full">
             <h2 className="leading-7 font-semibold text-zinc-800 dark:text-zinc-100">{project.name}</h2>
             <p className="w-[276px] font-inter text-sm line-clamp-3 leading-6 text-zinc-700 dark:text-zinc-400">
               {project.content}
