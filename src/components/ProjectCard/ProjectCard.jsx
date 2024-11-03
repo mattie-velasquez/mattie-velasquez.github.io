@@ -6,7 +6,7 @@ const ProjectCard = ({ projects = [] }) => {
     <div className="flex flex-col gap-4 sm:grid sm:grid-cols-2 lg:grid-cols-3 justify-between">
       {projects.map((project, index) => (
         <div
-          className="flex mx-auto flex-col max-w-[340px] w-full h-full project-card py-4 px-8 bg-white hover:bg-zinc-100 dark:bg-zinc-900 dark:hover:bg-zinc-800 rounded-md gap-1"
+          className="flex mx-auto flex-col max-w-[350px] w-full h-full project-card py-4 px-8 bg-white hover:bg-zinc-100 dark:bg-zinc-900 dark:hover:bg-zinc-800 rounded-md gap-1"
           key={index}
         >
           <Image
