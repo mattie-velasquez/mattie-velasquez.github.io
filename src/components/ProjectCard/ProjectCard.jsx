@@ -22,7 +22,7 @@ const ProjectCard = ({ projects = [] }) => {
               {project.content}
             </p>
             <a
-              className="flex flex-row items-center leading-7 hover:underline text-zinc-800 dark:text-zinc-300"
+              className="flex-row items-center leading-7 hover:underline text-zinc-800 dark:text-zinc-300"
               href={project.link}
               target="_blank"
               rel="noreferrer"

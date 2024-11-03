@@ -1,5 +1,5 @@
-import next from "next";
-// import { blogspotURL, concert2022October, concert2022December, concert2023March, concert2023June, article2URL } from "../../public/DataLinks";
+// import next from "next";
+
 
 export const skills = [
     { name: 'HTML', proficiency: 60, icon: '/SkillsWidget/html5.svg' },
