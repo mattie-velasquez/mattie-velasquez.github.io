@@ -87,67 +87,43 @@ export const articleList = [
 
 export const workstationList =[
   {
-    title: "Item Name",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+    title: "Onn Wireless Mouse",
+    description:"An affordable, easy to use bluetooth mouse. While trackpads are nice, I find that I am more productive with a mouse.",
   },
   {
-    title: "Item Name",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
-  },
-  {
-    title: "Item Name",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
-  },
-  {
-    title: "Item Name",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
-  },
-  {
-    title: "Item Name",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
-  },
+    title: "Onn Desktop Monitor",
+    description:"An affordable medium-sized computer monitor. I am able to connect my laptop to it and have an additional screen for when I am working on multiple projects. I find that having an additional screen increases the flexibility of my time while I am working.",
+  }
 ]
 export const developmentList =[
   {
-    title: "Item Name",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+    title: "Visual Studio Code",
+    description:"A free online IDE developed by Microsoft. VS Code supports many different coding languages, such as JavaScript, Python, C++, and more. You are able to develop code within the IDE and can utilize the built-in terminal to run command lines from the editor.",
   },
   {
-    title: "Item Name",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
-  },
-  {
-    title: "Item Name",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+    title: "Next.js",
+    description:"Next.js is a website for React-based frameworks that allows its users to find documentation that helps them build their own code and websites. ",
   },
 ]
 export const designList =[
   {
     title: "Whimsical",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+    description:"Whimsical is a collaborative visual workspace for creating flowcharts, wireframes, sticky notes, and mind maps. It is a great tool for brainstorming and planning projects.",
   },
   {
     title: "Figma",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+    description:"Figma is another collaborative visual workspace and design tool used for creating interactive prototypes.",
   },
 ]
 export const productivityList =[
   {
-    title: "Item Name",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
+    title: "Notion",
+    description:"A note-taking app that allows you to create notes, databases, wikis, and more. Notion is a great tool for organizing your thoughts and projects. You can easily share your notes with others to help with collaboration on projects.",
   },
   {
-    title: "Item Name",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
-  },
-  {
-    title: "Item Name",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
-  },
-  {
-    title: "Item Name",
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu.",
-  },
+    title: "Trello",
+    description:"Trello is a project management tool that allows you to create boards, lists, and cards to help you organize and prioritize your projects. You can easily move cards from one list to another to help you keep track of your progress. You can also easily share your boards with others to help increase communication and collaboration with others.",
+  }
 ]
 
 export const projectList = [
