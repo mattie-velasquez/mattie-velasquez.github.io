@@ -65,7 +65,7 @@ export const navOptions = [
 
 export const socialLinks = [
     { icon: '/SocialLinks/github.svg', link: 'https://github.com/tethergirl30' },
-    { icon: '/SocialLinks/linkedin.svg', link: 'https://linkedin.com/mattievelasquez' },
+    { icon: '/SocialLinks/linkedin.svg', link: 'https://linkedin.com/in/mattievelasquez' },
  ];
     {/* icon: '/SocialLinks/twitter.svg', link: 'https://twitter.com' */}
 
