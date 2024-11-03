@@ -26,6 +26,7 @@ const ProjectCard = ({ projects = [] }) => {
               href={project.link}
               target="_blank"
               rel="noreferrer"
+              style={{ wordkBreak: "break-all" }}
             >
               {project.link}
             </a>
