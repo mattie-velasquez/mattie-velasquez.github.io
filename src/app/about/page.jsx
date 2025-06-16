@@ -20,7 +20,7 @@ export default function About() {
             I have many hobbies and interests, including graphic design, software development, and learning new things. I am an artist, crafter, musician, and writer. I am a member of the Church of Jesus Christ of Latter-day Saints, and I am married to my best friend, who is taking classes online for his educational goals. We love going on walks, playing games, making each other laugh, and just spending time together.
           </p>
           <p className="text-zinc-800  dark:text-zinc-100 mb-4">
-            I have been attending Ensign College for the last year and a half, studying software development and graphic design. I have really been enjoying my time here, learning about and studying graphic design and software development. I have been learning so much about coding and softwware development, and I am looking forward to being able to utilize the skills I have learned in future projects and job opportunities.
+            I have been attending Ensign College for the last two years studying software development and graphic design. I have really been enjoying my time here, learning about and studying graphic design and software development. I have been learning so much about coding and software development, and I am looking forward to being able to utilize the skills I have learned in future projects and job opportunities.
           </p>
           {/* <p className="text-zinc-800  dark:text-zinc-100 mb-4"></p>
           <p className="text-zinc-800  dark:text-zinc-100 mb-4"></p> */}
