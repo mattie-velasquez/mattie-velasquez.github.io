@@ -14,13 +14,13 @@ export default function About() {
         {/* Left Section - Text */}
         <div className="w- full max-w-[464px] lg:">
           <h1 className=" text-zinc-800  dark:text-zinc-100 text-5xl leading-[56px] font-bold mb-4">
-            I'm Mattie. I'm a student of software development, graphic design, and wife to the most amazing and supportive husband.
+            I'm Mattie. I'm a student of software development, graphic design, and wife.
           </h1>
           <p className="text-zinc-800  dark:text-zinc-100 mb-4">
             I have many hobbies and interests, including graphic design, software development, and learning new things. I am an artist, crafter, musician, and writer. I am a member of the Church of Jesus Christ of Latter-day Saints, and I am married to my best friend, who is taking classes online for his educational goals. We love going on walks, playing games, making each other laugh, and just spending time together.
           </p>
           <p className="text-zinc-800  dark:text-zinc-100 mb-4">
-            I have been attending Ensign College for the last two years studying software development and graphic design. I have really been enjoying my time here, learning about and studying graphic design and software development. I have been learning so much about coding and software development, and I am looking forward to being able to utilize the skills I have learned in future projects and job opportunities.
+            I have been attending Ensign College for the last two years studying software development and graphic design. I have really been enjoying my time here, learning about and studying graphic design and software development. I have been learning so much about coding and software development. I am in the middle of my last semester and am looking forward to being able to utilize the skills I have learned in future projects and job opportunities.
           </p>
           {/* <p className="text-zinc-800  dark:text-zinc-100 mb-4"></p>
           <p className="text-zinc-800  dark:text-zinc-100 mb-4"></p> */}

@@ -14,7 +14,7 @@ export default function Projects() {
           Welcome to my collection of projects. Please enjoy.
         </h1>
         <p className="text-zinc-600 dark:text-zinc400 leading-7">
-          Here you will find a collection of projects that I have worked on. Some are personal projects, some are professional projects, and some are projects that I have worked on with others. I hope you enjoy looking through them.
+          Here you will find a collection of projects that I have worked on, including this website. Some are personal projects, some are professional projects, and some are projects that I have worked on with others. I hope you enjoy looking through them.
         </p>
       </div>
       <ProjectCard projects={projectList} />

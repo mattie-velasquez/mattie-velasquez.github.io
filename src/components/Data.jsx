@@ -2,9 +2,10 @@
 
 
 export const skills = [
-    { name: 'HTML', proficiency: 60, icon: '/SkillsWidget/html5.svg' },
-    { name: 'CSS', proficiency: 50, icon: '/SkillsWidget/css3.svg' },
-    { name: 'JavaScript', proficiency: 75, icon: '/SkillsWidget/javascript.svg' },
+    { name: 'HTML', proficiency: 60, icon: '/SkillsWidget/html5.svg'},
+    { name: 'CSS', proficiency: 50, icon: '/SkillsWidget/css3.svg'},
+    { name: 'JavaScript', proficiency: 75, icon: '/SkillsWidget/javascript.svg'},
+    { name: 'SwiftUI', proficiency: 30, icon: '/SkillsWidget/swiftui.png'}
   ];
 
 export const work = [
@@ -52,15 +53,15 @@ export const footerLinks = [
       url: '/projects',
     },
     {
-      title: 'Uses',
-      url: '/uses',
+      title: 'Favorite Tools',
+      url: '/favorite-tools',
     },
   ];
 
 export const navOptions = [
   { path: '/', label: 'Home' },
   { path: '/projects', label: 'Projects' },
-  { path: '/uses', label: 'Uses' },
+  { path: '/favorite-tools', label: 'Favorite Tools' },
   { path: '/about', label: 'About' },
   ];
 
@@ -158,4 +159,10 @@ export const projectList = [
     content: "A digital concert program for the Eagle Mountain Symphony Orchestra.",
     link: "https://eaglemountainsymphony.org/concerts/2023June/program.pdf",
   },
+{
+//     logo: "/ProjectCard/",
+    name: "My Portfolio",
+    content: "A link to the main page of my portfolio.",
+    link: "https://mattievelasquez.github.io",
+  }
 ];
