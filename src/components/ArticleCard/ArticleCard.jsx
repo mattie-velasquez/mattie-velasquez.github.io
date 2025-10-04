@@ -1,7 +1,7 @@
   const ArticleCard = ({articleList = []}) => {
   return (
   <div className="article-card-container flex flex-col lg:w-[512px] py-8">
-    <ul className="flex flex-col lg:p-8 gap-10">
+    <ul className="flex flex-col lg:p-8 gap-7">
     {articleList?.map((article, index) => (
       <li key={index}>
         <article data-testid={`articleCard${index}`} className="article-card">

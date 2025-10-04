@@ -39,7 +39,7 @@ export default function About() {
             />
           </div>
 
-          {/*links*/}
+          {/* links */}
           <div className="hidden lg:flex lg:flex-col p-3 text-center">
             {/*twitter*/}
             {/* <a
@@ -50,7 +50,7 @@ export default function About() {
               <span>Follow me on X</span>
             </a> */}
 
-            {/*git*/}
+            {/* Github */}
             <a
               href="https://github.com/tethergirl30"
               className="flex items-center justify-start mb-4 text-zinc-800  dark:text-zinc-100 hover:text-black"
@@ -59,7 +59,7 @@ export default function About() {
               <span>Follow me on Github</span>
             </a>
 
-            {/* Lknd*/}
+            {/* LinkedIn */}
             <a
               href="https://linkedin.com/in/mattievelasquez"
               className="flex items-center justify-start mb-4 text-zinc-800  dark:text-zinc-100 hover:text-black"
@@ -89,7 +89,7 @@ export default function About() {
         </div>
       </div>
 
-      {/*links mobile*/}
+      {/* Mobile links */}
       <div className="lg:hidden p-6 text-center">
         {/*twitter*/}
         {/* <a
@@ -100,7 +100,7 @@ export default function About() {
           <span>Follow me on X</span>
         </a> */}
 
-        {/*git*/}
+        {/* Github */}
         <a
           href="https://github.com/tethergirl30"
           className="flex items-center justify-start mb-4 text-zinc-800  dark:text-zinc-100 hover:text-black"
@@ -109,7 +109,7 @@ export default function About() {
           <span>Follow me on Github</span>
         </a>
 
-        {/* Lknd*/}
+        {/* LinkedIn */}
         <a
           href="https://linkedin.com/in/mattievelasquez"
           className="flex items-center justify-start mb-4 text-zinc-800  dark:text-zinc-100 hover:text-black"
@@ -124,7 +124,7 @@ export default function About() {
           <span>Follow me on LinkedIn</span>
         </a>
 
-        {/*mail*/}
+        {/* Email */}
         <div className="flex items-center justify-start text-zinc-800  dark:text-zinc-100">
           <Image
             width={24}

@@ -32,7 +32,7 @@ export default function Home() {
             className="widget"
             title={"Work"}
             content={
-              "My work experience includes community work, personal growth and design, as well as professionl work experiences."
+              "My work experience includes community work, personal growth and design, as well as professional work experiences."
             }
             experiences={work}
           />

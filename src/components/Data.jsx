@@ -1,6 +1,5 @@
 // import next from "next";
 
-
 export const skills = [
     { name: 'HTML', proficiency: 60, icon: '/SkillsWidget/html5.svg'},
     { name: 'CSS', proficiency: 50, icon: '/SkillsWidget/css3.svg'},
@@ -61,8 +60,8 @@ export const footerLinks = [
 export const navOptions = [
   { path: '/', label: 'Home' },
   { path: '/projects', label: 'Projects' },
-  { path: '/favorite-tools', label: 'Favorite Tools' },
   { path: '/about', label: 'About' },
+  { path: '/favorite-tools', label: 'Favorite Tools' },
   ];
 
 export const socialLinks = [
@@ -163,6 +162,6 @@ export const projectList = [
 //     logo: "/ProjectCard/",
     name: "My Portfolio",
     content: "A link to the main page of my portfolio.",
-    link: "https://mattievelasquez.github.io",
+    link: "https://tethergirl30.github.io",
   }
 ];
