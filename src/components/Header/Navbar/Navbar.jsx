@@ -51,7 +51,7 @@ export function Dropdown() {
             <NavbarLink href="/" label="Home" />
             <NavbarLink href="/about" label="About" />
             <NavbarLink href="/projects" label="Projects" />
-            <NavbarLink href="/uses" label="Uses" />
+            <NavbarLink href="/uses" label="Favorite Tools" />
           </ul>
         </div>
       )}
@@ -68,7 +68,7 @@ export default function Navbar() {
             <NavbarLink href="/" label="Home" />
             <NavbarLink href="/about" label="About" />
             <NavbarLink href="/projects" label="Projects" />
-            <NavbarLink href="/uses" label="Uses" />
+            <NavbarLink href="/uses" label="Favorite Tools" />
           </ul>
         </div>
         <div className="relative flex justify-center items-center sm:hidden h-24 max-w-5xl pr-4 pl-4 gap-4">

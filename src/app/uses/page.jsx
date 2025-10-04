@@ -2,8 +2,8 @@ import UsesSection from "@/components/UsesSection/UsesSection";
 import { workstationList, developmentList, designList, productivityList } from "@/components/Data";
 
 export const metadata = {
-  title: 'Portfolio - Uses',
-  description: 'The uses page of my portfolio.',
+  title: 'Portfolio - Favorite Tools',
+  description: 'The favorite tools page of my portfolio.',
 }
 
 export default function Uses() {
@@ -14,7 +14,7 @@ export default function Uses() {
         Software I use, gadgets I love, and other things I recommend.
         </h1>
         <p className="text-zinc-800  dark:text-zinc-100 mb-4">
-          Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..
+          A few of my favorite tools that I love and recommend.
         </p>
       </div>
       <div className="flex flex-col gap-[80px]">
