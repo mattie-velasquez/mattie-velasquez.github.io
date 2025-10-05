@@ -51,7 +51,7 @@ export function Dropdown() {
             <NavbarLink href="/" label="Home" />
             <NavbarLink href="/about" label="About" />
             <NavbarLink href="/projects" label="Projects" />
-            <NavbarLink href="/uses" label="Favorite Tools" />
+            <NavbarLink href="/favorite-tools" label="Favorite Tools" />
           </ul>
         </div>
       )}
