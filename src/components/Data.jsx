@@ -159,7 +159,7 @@ export const projectList = [
     link: "https://eaglemountainsymphony.org/concerts/2023June/program.pdf",
   },
 {
-    logo: "/Introduction/IntroductionProfile.jpg",
+    logo: "/ProjectCard/PortfolioImage.jpg",
     name: "My Portfolio",
     content: "A link to the main page of my portfolio.",
     link: "https://mattie-velasquez.github.io",
