@@ -11,10 +11,10 @@ export default function Uses() {
     <div className="flex flex-col lg:pt-6 px-4 lg:px-36 gap-16 pb-16">
       <div className={"w-full lg:w-[672px] gap-[24px]"}>
         <h1 className="lg:text-zinc-800 dark:text-zinc-100 text-5xl leading-[56px] font-bold mb-4">
-        Software I use, gadgets I love, and other things I recommend.
+        My favorite tool recommendations.
         </h1>
         <p className="text-zinc-800  dark:text-zinc-100 mb-4">
-          A few of my favorite tools that I love and recommend.
+        Software I use, gadgets I love, and other things I recommend.
         </p>
       </div>
       <div className="flex flex-col gap-[80px]">

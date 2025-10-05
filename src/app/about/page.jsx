@@ -14,7 +14,7 @@ export default function About() {
         {/* Left Section - Text */}
         <div className="w- full max-w-[464px] lg:">
           <h1 className=" text-zinc-800  dark:text-zinc-100 text-5xl leading-[56px] font-bold mb-4">
-            I'm Mattie. I'm a student of software development, graphic design, and wife.
+            I'm Mattie, a student of software development and graphic design, and a wife.
           </h1>
           <p className="text-zinc-800  dark:text-zinc-100 mb-4">
             I have many hobbies and interests, including graphic design, software development, and learning new things. I am an artist, crafter, musician, and writer. I am a member of the Church of Jesus Christ of Latter-day Saints, and I am married to my best friend, who is taking classes online for his educational goals. We love going on walks, playing games, making each other laugh, and just spending time together.
