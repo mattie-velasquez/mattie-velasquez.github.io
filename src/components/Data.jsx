@@ -65,7 +65,7 @@ export const navOptions = [
   ];
 
 export const socialLinks = [
-    { icon: '/SocialLinks/github.svg', link: 'https://github.com/tethergirl30' },
+    { icon: '/SocialLinks/github.svg', link: 'https://github.com/mattie-velasquez' },
     { icon: '/SocialLinks/linkedin.svg', link: 'https://linkedin.com/in/mattievelasquez' },
  ];
     {/* icon: '/SocialLinks/twitter.svg', link: 'https://twitter.com' */}
@@ -162,6 +162,6 @@ export const projectList = [
 //     logo: "/ProjectCard/",
     name: "My Portfolio",
     content: "A link to the main page of my portfolio.",
-    link: "https://tethergirl30.github.io",
+    link: "https://mattie-velasquez.github.io",
   }
 ];
