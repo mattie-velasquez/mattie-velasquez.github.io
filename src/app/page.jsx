@@ -15,9 +15,9 @@ export default function Home() {
     <div className="flex flex-col px-4 pt-6 pb-16 lg:px-36 gap-6">
       <Introduction
         className="introduction"
-        title={"Software developer, graphic designer, and student."}
+        title={"Software developer, graphic designer, and crafter."}
         content={
-          "I'm a student of software development and graphic design at Ensign College and I am passionate about helping to create a safer world through technology and design."
+          "I am passionate about helping to create a safer world through technology and design."
         }
         socialLinks={socialLinks}
       />
