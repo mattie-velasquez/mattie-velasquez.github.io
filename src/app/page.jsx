@@ -24,10 +24,10 @@ export default function Home() {
       <div className="flex lg:flex-row flex-col justify-between">
         <ArticleCard articleList={articleList} />
         <section className="widget-container flex flex-col gap-6">
-          <SignupWidget
-            title="Stay up to date"
-            content="Get notified when I publish something new, and unsubscribe at any time."
-          />
+{/*           <SignupWidget */}
+{/*             title="Stay up to date" */}
+{/*             content="Get notified when I publish something new, and unsubscribe at any time." */}
+{/*           /> */}
           <WorkWidget
             className="widget"
             title={"Work"}
